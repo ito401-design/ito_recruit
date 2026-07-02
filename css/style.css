@@ -417,7 +417,7 @@ a.ddmenu::before {
 /*見出し*/
 .mainimg .text h1 {
 	font-weight: 500;	/*文字の太さ。200〜900まで指定できます。大きいほど太字に。*/
-	font-size: max(13.5px, 5vw);	/*文字サイズ。18pxより小さくならない。3は可変サイズなのでお好みで。*/
+	font-size: max(10px, 5vw);	/*文字サイズ。18pxより小さくならない。3は可変サイズなのでお好みで。*/
 	line-height: 1.5;		/*行間を狭く*/
 	letter-spacing: 0.1em;	/*文字間隔を少しだけ広く*/
 }
