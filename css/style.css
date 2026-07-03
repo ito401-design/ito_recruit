@@ -595,9 +595,6 @@ main ul,main ol {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 1.5rem;
-
-    max-width: 1200px;
-    margin: 0 auto;
 }
 
 	/*画面幅600px以下の追加指定*/
